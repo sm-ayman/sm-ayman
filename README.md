@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sultan Md. Ayman</h1>
 <h3 align="center">I'm a Frontend Developer, currently living in Chittagong Bangladesh. Every time I write a line of code, I try to make the web look beautiful.</h3>
-<img alt="coding width="50" height="300" align="right" src="https://camo.githubusercontent.com/787941ceccc55e92cdda04ed77149e708bcaa74264b03ae17eded3420c999d2a/68747470733a2f2f7777772e73686f6f7464617274736f6c7574696f6e732e636f6d2f696d672f736572766963652f7765622d64657369676e2e676966">
+<img alt="coding width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="sm-ayman" /> </p>
 
 - 🤝 I’m looking for an Intern or Full-time job
