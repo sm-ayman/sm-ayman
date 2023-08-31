@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://sm-ayman.github.io/](https://sm-ayman.github.io/)
+- 👨‍💻 All of my projects are available at [https://sm-ayman.netlify.app/](https://sm-ayman.netlify.app/)
 
 - 📫 How to reach me **sultanmdayman@gmail.com**
 
