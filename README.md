@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan Md. Ayman</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&center=true&width=435&lines=Frontend+Developer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Developer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" /></p>
 <img alt="coding align="right" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966"> <br>
 <h3 align="center">A determined front-end developer and Graphic Designer living in Chittagong, a vibrant city in Bangladesh. I'm passionate about designing logical and aesthetically pleasing digital experiences, and I find my passion at the nexus of technology and art.</h3>
 <img alt="coding width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
