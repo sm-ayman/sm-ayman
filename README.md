@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for an Intern or Full-time job
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://sm-ayman.netlify.app/](https://sm-ayman.netlify.app/)
 
