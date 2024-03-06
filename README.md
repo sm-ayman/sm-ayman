@@ -2,7 +2,7 @@
 <div align="center">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Developer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </div>
-<img alt="coding align="right" src="https://i.ibb.co/YkKTZ0g/2150376770.jpg"> <br>
+<img alt="coding align="right" src="https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?t=st=1709739522~exp=1709743122~hmac=4ff52a285c25304c0adb7bc48d69c2899242a1ad8c81b6246aa594fce519cf82&w=996"> <br>
 <h3 align="center">A determined front-end developer and Graphic Designer living in Chittagong, a vibrant city in Bangladesh. I'm passionate about designing logical and aesthetically pleasing digital experiences, and I find my passion at the nexus of technology and art.</h3>
 <img alt="coding width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="sm-ayman" /> </p>
