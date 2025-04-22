@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sultan Md. Ayman</h1>
 <div align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Developer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Engineer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </div>
 <img alt="coding align="right" src="https://i.ibb.co/PG37yPg/2149311914.jpg"> <br>
-<h3 align="center">A determined front-end developer and Graphic Designer living in Chittagong, a vibrant city in Bangladesh. I'm passionate about designing logical and aesthetically pleasing digital experiences, and I find my passion at the nexus of technology and art.</h3>
+<h3 align="center">A determined Frontend Engineer and Graphic Designer living in Chittagong, a vibrant city in Bangladesh. I'm passionate about designing logical and aesthetically pleasing digital experiences, and I find my passion at the nexus of technology and art.</h3>
 <img alt="coding width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="sm-ayman" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sultanmdayman@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gf3dm39hhFUCFtgDAseAMOoEtHazo1_x/view?usp=drive_link](https://drive.google.com/file/d/1Gf3dm39hhFUCFtgDAseAMOoEtHazo1_x/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w9RLj2r5U6AuYYWUvKIF2hLpKu3KJpob/view?usp=sharing](https://drive.google.com/file/d/1w9RLj2r5U6AuYYWUvKIF2hLpKu3KJpob/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
