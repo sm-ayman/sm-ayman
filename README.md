@@ -3,7 +3,7 @@
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Engineer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </div>
 <img alt="coding align="right" src="https://i.ibb.co/PG37yPg/2149311914.jpg"> <br>
-<h3 align="center">A determined Frontend Engineer and ML/DL Enthusiast living in Chittagong, a vibrant city in Bangladesh. I'm passionate about designing logical and aesthetically pleasing digital experiences, and I find my passion at the nexus of technology and art.</h3>
+<h3 align="center">A passionate Frontend Engineer and ML/DL Enthusiast based in Chittagong, Bangladesh. I’m dedicated to crafting intuitive and visually appealing digital experiences, where technology meets art. With a strong focus on design and development, I aim to create innovative solutions that blend functionality with aesthetics.</h3>
 <img alt="coding width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="sm-ayman" /> </p>
 
