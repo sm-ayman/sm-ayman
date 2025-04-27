@@ -4,13 +4,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Engineer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 </div>
+
 <p align="right">
   <img src="https://i.ibb.co/rKB3wdTN/12063795-4884785.jpg" alt="coding" width="300"/>
 </p>
+
 <h3 align="center">
   A passionate Frontend Engineer and ML/DL Enthusiast based in Bangladesh. I’m dedicated to crafting intuitive and visually appealing digital experiences, where technology meets art. With a strong focus on design and development, I aim to create innovative solutions that blend functionality with aesthetics.
 </h3>
-<img alt="coding width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
+
+<img alt="coding" width="500" height="300" align="right" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sm-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="sm-ayman" />
 </p>
@@ -19,7 +23,7 @@
 - 🌱 I’m currently learning **Next JS**  
 - 👨‍💻 All of my projects are available at [https://sm-ayman.netlify.app/](https://sm-ayman.netlify.app/)  
 - 📫 How to reach me **sultanmdayman@gmail.com**  
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w9RLj2r5U6AuYYWUvKIF2hLpKu3Kpob/view?usp=sharing](https://drive.google.com/file/d/1w9RLj2r5U6AuYYWUvKIF2hLpKu3Kpob/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w9RLj2r5U6AuYYWUvKIF2hLpKu3Kpob/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
