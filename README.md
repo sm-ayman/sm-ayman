@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Md. Ayman</h1>
 <div align="center">
   <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Engineer;ML%2FDL+Enthusiast;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Engineer;ML%2FDL+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
