@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Next JS**  
 - 👨‍💻 All of my projects are available at [https://sm-ayman.netlify.app/](https://sm-ayman.netlify.app/)  
 - 📫 How to reach me **sultanmdayman@gmail.com**  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bJOQyVI-nURkMETt5XiiwrY4xE_FlUQN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VjzqXH63bZnQGkGRTHmmn2LBMt7uZcxO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
