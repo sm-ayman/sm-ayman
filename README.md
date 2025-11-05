@@ -16,7 +16,7 @@
 </p>
 
 - 🤝 I’m looking for an Intern or Full-time job  
-- 🌱 I’m currently learning **Next JS**  
+- 🌱 I’m currently learning **Full Stack Development**  
 - 👨‍💻 All of my projects are available at [https://sm-ayman.netlify.app/](https://sm-ayman.netlify.app/)  
 - 📫 How to reach me **sultanmdayman@gmail.com**  
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VjzqXH63bZnQGkGRTHmmn2LBMt7uZcxO/view?usp=sharing)
