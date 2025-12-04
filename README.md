@@ -72,8 +72,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sm-ayman&theme=default" height="180" />
-</p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm-ayman&" alt="sm-ayman" /> </p>
 
 ---
