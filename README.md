@@ -24,7 +24,7 @@
 - ⚡ Currently growing into a **Full Stack Engineer**  
 - 👨‍💻 Portfolio → **https://sm-ayman.netlify.app/**  
 - 📫 Email → **sultanmdayman@gmail.com**  
-- 📄 Resume → [View Resume](https://drive.google.com/file/d/1VjzqXH63bZnQGkGRTHmmn2LBMt7uZcxO/view?usp=sharing)
+- 📄 Resume → [View Resume](https://drive.google.com/file/d/1nAwSjGQ5ObHQ872Of8kZN2Tgw55QlZyc/view?usp=sharing)
 
 ---
 
