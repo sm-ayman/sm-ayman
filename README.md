@@ -98,8 +98,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight" alt="sm-ayman stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight" alt="sm-ayman stats" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
