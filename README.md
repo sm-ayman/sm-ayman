@@ -94,12 +94,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm-ayman&theme=tokyonight" alt="sm-ayman streak" />
+  <img src="https://streak-stats.demolab.com/?user=sm-ayman&theme=tokyonight" alt="sm-ayman streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight" alt="sm-ayman stats" />
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight" alt="sm-ayman stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
