@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Md. Ayman</h1>
-
+<p align="center">
+  <img src="https://i.ibb.co.com/W4TCTSFz/cover.png" alt="Sultan Md. Ayman Banner" width="100%" />
+</p>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A5BDFD&width=435&lines=Frontend+Engineer;MERN+Stack+Developer;ML%2FDL+Enthusiast" alt="Typing SVG" />
