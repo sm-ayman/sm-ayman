@@ -29,7 +29,7 @@
 - 💬 Ask me about **React, Node.js, Express.js, RESTful APIs, ML/DL**
 - 👨‍💻 Portfolio → **[sm-ayman.netlify.app](https://sm-ayman.netlify.app/)**
 - 📫 Email → **sultanmdayman@gmail.com**
-- 📄 Resume → [View Resume](https://drive.google.com/file/d/1nAwSjGQ5ObHQ872Of8kZN2Tgw55QlZyc/view?usp=sharing)
+- 📄 Resume → [View Resume](https://drive.google.com/file/d/1plah-0DsKL8SilBUvuFgmQKV4n6vE8-k/view)
 
 ---
 
