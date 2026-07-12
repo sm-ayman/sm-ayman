@@ -92,26 +92,33 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
     height="170"
+    src="https://github-readme-stats.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sm-ayman&theme=tokyo-night&hide_border=true"
-    width="100%"
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sm-ayman&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sm-ayman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Trophies"
   />
 </p>
 ---
