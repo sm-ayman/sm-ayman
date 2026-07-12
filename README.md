@@ -92,17 +92,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sm-ayman&theme=tokyonight" alt="sm-ayman streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sm-ayman&show_icons=true&theme=tokyonight" alt="sm-ayman stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sm-ayman&layout=compact&theme=tokyonight" alt="top langs" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sm-ayman&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
-
 ---
 
 <!-- Snake animation -->
